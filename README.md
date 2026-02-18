@@ -9,36 +9,13 @@
 
 ## Технологии и навыки
 
-### Выявление требований
-- Интервью со стейкхолдерами  
-- User Story Mapping  
-- Прототипирование (Miro, Balsamiq, Figma)
-
-### Документирование и моделирование
-- BPMN 2.0  
-- UML (Use Case, Class, State Machine)  
-- ER-диаграммы  
-- Context Diagram  
-- Data Flow Diagram (DFD)
-
-### Управление требованиями
-- RTM (Requirement Traceability Matrix)  
-- Управление беклогом  
-- Backlog refinement  
-- Sprint planning  
-
-### Работа с данными
-- SQL (PostgreSQL, базовые SELECT, JOIN)  
-- Анализ структуры БД  
-
-### Тестирование и приемка
-- Подготовка тестовых сценариев  
-- ПМИ (программа и методика испытаний)
-- Демонстрация 
+| Направление | Инструменты и навыки |
+|-------------|---------------------------|
+| **Выявление требований** | Интервью со стейкхолдерами<br> User Story Mapping<br> Прототипирование (Miro, Balsamiq, Figma) |
+| **Документирование и моделирование** | BPMN 2.0<br>UML (Use Case, Class, State Machine)<br>ER-диаграммы<br>Context Diagram<br>Data Flow Diagram (DFD) |
+| **Управление требованиями** | RTM (Requirement Traceability Matrix)<br>Управление беклогом<br>Backlog refinement<br>Sprint planning |
+| **Работа с данными** | SQL (PostgreSQL, базовые SELECT, JOIN)<br>Анализ структуры БД |
+| **Тестирование и приемка** | Подготовка тестовых сценариев<br>ПМИ (программа и методика испытаний)<br>Демонстрация функционала |
 
 
-## Контакты
-[Телеграм](https://t.me/akinokokoro)
-
-## Портфолио 
 
