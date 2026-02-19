@@ -63,27 +63,26 @@ __Проект: POS-решение японского заказчика__  <br>
 <details>
 <summary>Примеры артефактов</summary>
   
-**Проект: Оптимизация работы службы поддержки и автоматизация сбора обратной связи в банке **  <br>
+__Проект: Оптимизация работы службы поддержки и автоматизация сбора обратной связи в банке__ <br>
 **Роль:** Business Analyst<br>
 **Домен:** Финтех <br>
 **Задача:** Повысить уровень удовлетворенности клиента после обращения в техподдержку (повысить оценку с 6.3 до 8)
 **Артефакты:**
 - [BPMN](https://drive.google.com/file/d/1vogPMJLTKSmsoAemNLATnvzczb6YYbk0/view?usp=sharing)
+- [User story map](https://miro.com/app/board/uXjVMiKmVQM=/?moveToWidget=3458764660249240611&cot=14)
+- [Lo-fi прототипы в Miro]([https://miro.com/app/board/uXjVMiKmVQM=/?moveToWidget=3458764660249240541&cot=14](https://miro.com/app/board/uXjVMiKmVQM=/?moveToWidget=3458764660249240651&cot=14))
 
-
-**Проект: POS-решение японского заказчика**  <br>
-**Роль:** System Analyst/Project coordinator <br>
+**Проект: Доработка сайта магазина стройтоваров**  <br>
+**Роль:** Business Analyst<br>
 **Домен:** Ритейл <br>
-**Команда:** 15 человек <br>
-**Архитектура:** монолит <br>
-**Задача:** Разработка корневой логики кроссплатформенного POS-решения на C# для японского заказчика. <br>
-**Моя зона ответственности:**
+**Задача:** Выявление точек улучшения для повышения продаж, сокращение нагрузки на операторов поддержки и общая оптимизация процесса. <br>
+**Артефакты:**
+- [Отчет об обследовании](https://disk.yandex.ru/i/wxWGpqSq17ZYog)
+- [BPMN As IS и TO BE](https://modeler.camunda.io/share/b9b93111-a4f8-46e4-92f1-550a726b69c7) 
+- [CJM](https://disk.yandex.ru/i/8FYvSq3HilLL5g)
+- [Требования к решению (ТЗ)](https://disk.yandex.ru/i/8Kv3ZSC-cK034A)
+- [Диаграмма классов, диаграмма объектов](https://disk.yandex.ru/d/oXCHv7YO1cg9Wg)
+- [Прототип решения](https://www.figma.com/design/BY9Lj3zs7YlNLebXitt70i/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD%D0%BE?node-id=2304-12162&t=1x1EaypL3l0qmwmc-1)
+- [Пользовательская инструкция](https://disk.yandex.ru/i/i7-Uj-I-hic_WQ)
 
-**Проект: POS-решение японского заказчика**  <br>
-**Роль:** System Analyst/Project coordinator <br>
-**Домен:** Ритейл <br>
-**Команда:** 15 человек <br>
-**Архитектура:** монолит <br>
-**Задача:** Разработка корневой логики кроссплатформенного POS-решения на C# для японского заказчика. <br>
-**Моя зона ответственности:**
-</details>
+
