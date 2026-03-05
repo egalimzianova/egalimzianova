@@ -20,7 +20,7 @@
 ## Портфолио
 
 <details>
-<summary>Проекты под NDA</summary>
+<summary>Описание проектов под NDA</summary>
   
 __Проект:Логистическое приложение для газовой компании__ <br>
 **Роль:** System Analyst/Project coordinator<br>
